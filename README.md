@@ -2,8 +2,7 @@
 
 基于Openwrt
 
-[固件下载]: https://doc.openwrt.cc/2-OpenWrt-Rpi/1-Download/
-
+[固件下载](https://doc.openwrt.cc/2-OpenWrt-Rpi/1-Download/ )
 
 
 ## 文件及配置
